@@ -16,7 +16,7 @@ class Utils:
         # Para unificar, separamos la base y la versión.
         self.graph_api_base = "https://graph.facebook.com"
         self.api_version = "v22.0"
-        self.access_token = "EAAafKCUnI2cBOZBLxrZCxVsy9H3aj2ZBZBZCloZBZCzcQhomwtiFDRL5ZCd6lsRsWRZCThKmF8jGvvdOFSZAwgJIOAp2wlCw8bZAmJWwjTCZC4PFRdnNxYVphH3O6LVbGRMhj26AYppn68CCODC5df6CxGAwOlMlCpCWclinUd9YGpIgotHp8j2hC3ULEptQzcf1woCbcze9HbvUvh2ZCx3ZCczRkVE3QAowZDZD"
+        self.access_token = "EAAafKCUnI2cBOwRrVRGF8OtdPcubRrO8ZAZCMZAvApcyTpzub1QqwOvbN5XZA6IV2eLxmZCZCBC5FSZCkTzio0cp5dKDIN9VVTcoO1CLieFPZCQlXYEZCK9jPblGfZAXKRelDnIkOKqDnFYluIaFZAU3u9i7WmcKviY5bbNWewlKJLa46plXMdU9fGwZATMu8vqvLhuZA8Kf8QAG84yhKg7j48zMsdJqZBiAZDZD"
         
 
     def identify_message_type(self, data: message.Webhook) -> tuple:

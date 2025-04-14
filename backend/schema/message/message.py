@@ -135,3 +135,5 @@ class SendMessage(BaseModel):
     template: Optional[TemplateMessage] = None
     text: Optional[FreeMessage] = None
     employer_id:int
+    context_message_id: Optional[str] = None  # <-- Campo para incluir el ID de contexto
+
