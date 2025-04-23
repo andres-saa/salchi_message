@@ -1,0 +1,49 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "642503312010167",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "573218111806",
+                            "phone_number_id": "633892163131388"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "andres saa"
+                                },
+                                "wa_id": "573226892988"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "context": {
+                                    "from_": null,
+                                    "id": null
+                                },
+                                "from_": "",
+                                "id": "wamid.HBgMNTczMjI2ODkyOTg4FQIAEhgWM0VCMEE5OTVCM0VDMzhDRkM3NDQ4NwA=",
+                                "timestamp": "1745014080",
+                                "type": "text",
+                                "text": {
+                                    "body": "Mejora 🚨🚨🚨los pedidos del jueves que toman después de las 12 están quedando para el lunes y deberían quedar para el sábado revísate esa parametrizacion ???"
+                                },
+                                "audio": null,
+                                "image": null,
+                                "document": null,
+                                "location": null,
+                                "contacts": null
+                            }
+                        ],
+                        "statuses": null
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}

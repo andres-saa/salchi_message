@@ -1,0 +1,1 @@
+UPDATE messaging.user_message_contact SET expiration_time = %s where  wa_user_id = %s;

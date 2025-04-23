@@ -130,10 +130,14 @@ class FreeMessage(BaseModel):
 # 4. Modelo general para envío de mensajes
 class SendMessage(BaseModel):
     to: str
+    restaurant_id: str
     messaging_product: str = "whatsapp"
-    type: str  # "template", "text", "audio", "image", etc.
+    type: str  # "template", "text", "audio", "image", "document", etc.
     template: Optional[TemplateMessage] = None
-    text: Optional[FreeMessage] = None
-    employer_id:int
-    context_message_id: Optional[str] = None  # <-- Campo para incluir el ID de contexto
+    text: Optional[FreeMessage] = None  # Campo para texto
+    audio: Optional[Audio] = None  # Campo para audio
+    image: Optional[Image] = None  # Campo para imagen
+    document: Optional[Document] = None  # Campo para documento
+    employer_id: int
+    context_message_id: Optional[str] = None  # Campo para incluir el ID de contexto
 

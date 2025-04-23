@@ -1,0 +1,49 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "642503312010167",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "573218111806",
+                            "phone_number_id": "633892163131388"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "andres saa"
+                                },
+                                "wa_id": "573226892988"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "context": {
+                                    "from_": null,
+                                    "id": null
+                                },
+                                "from_": "",
+                                "id": "wamid.HBgMNTczMjI2ODkyOTg4FQIAEhgWM0VCMEE1QTE2QkZDNkZFMEFGQjIyQgA=",
+                                "timestamp": "1745014083",
+                                "type": "text",
+                                "text": {
+                                    "body": "En el banco va estar desde el lunes la plata pero en el reporte va quedar desde que él le dio enviado y como ellos concilian diario no les va a cuadrar"
+                                },
+                                "audio": null,
+                                "image": null,
+                                "document": null,
+                                "location": null,
+                                "contacts": null
+                            }
+                        ],
+                        "statuses": null
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}

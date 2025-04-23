@@ -1,0 +1,32 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "448043808382821",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "15551335552",
+                            "phone_number_id": "422125357649864"
+                        },
+                        "contacts": null,
+                        "messages": null,
+                        "statuses": [
+                            {
+                                "id": "wamid.HBgMNTczMjI1OTU4NDI0FQIAERgSRjFBNDNFQjQ0QjNEODM0QUQ4AA==",
+                                "status": "failed",
+                                "timestamp": "1745079803",
+                                "recipient_id": "573225958424",
+                                "conversation": null,
+                                "pricing": null
+                            }
+                        ]
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}

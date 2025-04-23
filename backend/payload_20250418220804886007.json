@@ -1,0 +1,49 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "642503312010167",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "573218111806",
+                            "phone_number_id": "633892163131388"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "andres saa"
+                                },
+                                "wa_id": "573226892988"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "context": {
+                                    "from_": null,
+                                    "id": null
+                                },
+                                "from_": "",
+                                "id": "wamid.HBgMNTczMjI2ODkyOTg4FQIAEhgWM0VCMEZFN0ExNDY3QkNBQTAxMzIxMQA=",
+                                "timestamp": "1745014083",
+                                "type": "text",
+                                "text": {
+                                    "body": "Y lo que causa tmabien que solo Ale en el informe cuando se le da enviado ENTOCNES te pongo este ejemplo hoy vos pagaste 12 mil fue por tranferencia y ejemplo fue el lunes . Y si Jahuer le da enviado el viernes . A angie en tesorería no le sale en el informe hasta que le dé enviado ENTOCNES vamos a estar allí en diferencias"
+                                },
+                                "audio": null,
+                                "image": null,
+                                "document": null,
+                                "location": null,
+                                "contacts": null
+                            }
+                        ],
+                        "statuses": null
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}

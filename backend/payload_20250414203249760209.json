@@ -1,0 +1,46 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "448043808382821",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "15551335552",
+                            "phone_number_id": "422125357649864"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "Kathe 😉"
+                                },
+                                "wa_id": "573225958424"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "context": null,
+                                "from_": "",
+                                "id": "wamid.HBgMNTczMjI1OTU4NDI0FQIAEhggRDcyRjM1Q0Y1MzUyODM4M0ZENEY5OThGQTI3NzVGREUA",
+                                "timestamp": "1744662767",
+                                "type": "text",
+                                "text": {
+                                    "body": "Cómo así?"
+                                },
+                                "audio": null,
+                                "image": null,
+                                "document": null,
+                                "location": null,
+                                "contacts": null
+                            }
+                        ],
+                        "statuses": null
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}

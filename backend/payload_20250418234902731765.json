@@ -1,0 +1,48 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "642503312010167",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "573218111806",
+                            "phone_number_id": "633892163131388"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "andres saa"
+                                },
+                                "wa_id": "573226892988"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "context": null,
+                                "from_": "",
+                                "id": "wamid.HBgMNTczMjI2ODkyOTg4FQIAEhgWM0VCMDQ5ODUyQkJCRjhFMUNBQzczMgA=",
+                                "timestamp": "1745014080",
+                                "type": "audio",
+                                "text": null,
+                                "audio": {
+                                    "id": "1383414576031800",
+                                    "mime_type": "audio/ogg; codecs=opus",
+                                    "sha256": "2aukVXp4GUdVUp7Ipnpt/08fTfzNrzowaCiUFF7foWw="
+                                },
+                                "image": null,
+                                "document": null,
+                                "location": null,
+                                "contacts": null
+                            }
+                        ],
+                        "statuses": null
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}

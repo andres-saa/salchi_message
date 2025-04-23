@@ -1,0 +1,49 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "642503312010167",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "573218111806",
+                            "phone_number_id": "633892163131388"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "andres saa"
+                                },
+                                "wa_id": "573226892988"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "context": {
+                                    "from_": null,
+                                    "id": null
+                                },
+                                "from_": "",
+                                "id": "wamid.HBgMNTczMjI2ODkyOTg4FQIAEhgWM0VCMDEzRjVERDI4QzgxRkQ3OEYwMAA=",
+                                "timestamp": "1745014080",
+                                "type": "text",
+                                "text": {
+                                    "body": "Otro tema . El tema de validar pedido en distrimonster tocaría quitarlo porque necesitamos que no dependa de nadie para que entre en línea directo ya con epayco las tranferencia entran de una y no necesita del Call cneter y cuando pague efectivo y recogen en planta no necesita validación ya que nosotros aquí no entregamos hasta que nos paguen ENTOCNES no hay margen de error"
+                                },
+                                "audio": null,
+                                "image": null,
+                                "document": null,
+                                "location": null,
+                                "contacts": null
+                            }
+                        ],
+                        "statuses": null
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}

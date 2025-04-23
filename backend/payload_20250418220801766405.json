@@ -1,0 +1,49 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "642503312010167",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "573218111806",
+                            "phone_number_id": "633892163131388"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "andres saa"
+                                },
+                                "wa_id": "573226892988"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "context": {
+                                    "from_": null,
+                                    "id": null
+                                },
+                                "from_": "",
+                                "id": "wamid.HBgMNTczMjI2ODkyOTg4FQIAEhgWM0VCMERFQ0I0NUI3REQ4MDM1OEI1NAA=",
+                                "timestamp": "1745014080",
+                                "type": "text",
+                                "text": {
+                                    "body": "Tengo un tema : 1 me indican que no se les integra aveces\n\n2 @573163467560 sino actualizadas hoy mismo esos números vamos a quedar paila porque sino no se integra . Necesitamos si o siiii los números sino se eliminarían los números .Pero se perdería el historial \n\n\n3 mi negro cuando quedaría lo de epaycooo lo que pasa es que los clientes piden , y si confirman en la tarde se pierde todo ese tiempo desde donde el cliente pide hasta donde se aprueba la tranferencia"
+                                },
+                                "audio": null,
+                                "image": null,
+                                "document": null,
+                                "location": null,
+                                "contacts": null
+                            }
+                        ],
+                        "statuses": null
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}
